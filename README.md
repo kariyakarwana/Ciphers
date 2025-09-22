@@ -119,4 +119,3 @@ Backend will run at **[http://localhost:8080](http://localhost:8080)**.
 * **Vigenere** & **Playfair** ciphers accept **text keys**.
 * Matrix rain animation runs in the background for a real **“hacker” feel**.
 
-```
